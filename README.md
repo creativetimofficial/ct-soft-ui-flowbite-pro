@@ -19,7 +19,7 @@ View [all components here](https://www.creative-tim.com/learning-lab/flowbite/al
 
 **Documentation built by Developers**<br />
 Each element is well presented in very complex documentation.
-You can read more about the [documentation here](https://www.creative-tim.com/learning-lab/flowbite/overview/soft-ui-dashboard/).
+You can read more about the [documentation here](https://www.creative-tim.com/learning-lab/flowbite/introduction/soft-ui-dashboard/).
 
 **Example Pages**<br />
 If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our 20 prebuilt example pages. You will be able to quickly set up the basic structure for your web project.
@@ -141,7 +141,7 @@ At present, we officially aim to support the last two versions of the following 
 
 - [Live Preview](https://demos.creative-tim.com/soft-ui-flowbite-pro/?ref=readme-sufp)
 - [Buy Page](https://www.creative-tim.com/product/soft-ui-flowbite-pro?ref=readme-sufp)
-- Documentation is [here](https://www.creative-tim.com/learning-lab/flowbite/overview/soft-ui-dashboard/?ref=readme-sufp)
+- Documentation is [here](https://www.creative-tim.com/learning-lab/flowbite/introduction/soft-ui-dashboard/?ref=readme-sufp)
 - [License Agreement](https://www.creative-tim.com/license?ref=readme-sufp)
 - [Support](https://www.creative-tim.com/contact-us?ref=readme-sufp)
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-soft-ui-flowbite-pro/issues)
